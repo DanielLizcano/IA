@@ -1,4 +1,4 @@
-# RECONOCIMIENTO DE EMOCIONES A PARTIR DE VIDEO-ENTREVISTAS
+## RECONOCIMIENTO DE EMOCIONES A PARTIR DE VIDEO-ENTREVISTAS
 ![Alt text](/Banner/BannerIA.jpeg)
 Autores: Juan David Porras Gomez, Jesús Daniel Lizcano Castro
 Objetivo: Categorizar gestos durante una entrevista laboral facilitando la evaluación y selección de candidatos.
